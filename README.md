@@ -99,3 +99,57 @@ To achieve the text-on-image effects I showed you before, you can use CSS for yo
 ```
 
 ### Icons
+
+1. Use icons to list features or steps
+2. Use icons for actions and links
+   1. icon should be recognizable
+   2. label your icon
+3. Use icon fonts
+
+### Spacing and layout
+
+1. Use whitespace
+   1. between elements
+   2. between groups of elements
+   3. between sections
+   4. do not exagerate
+2. Define hiearchy: whitespace describes invisible relations between sections
+   1. Define where you want your audience to look first
+   2. Establish a flow that corrisponds to your content's message
+   3. Use whitespace to build that flow
+
+### User experience
+
+- **User interface** is the presentation of the product: how it looks and feels.
+- **User experience** is the overall experience of the user has with the product
+
+### Inspiration
+
+Using other sites to see other designers **doing right**
+
+- Collect designs you like
+- Try to understand anything about them
+- Check HTML and CSS
+
+### Website conversion to eCommerce
+
+1. Build trust
+2. Repeat primary action
+3. Grab user attention
+4. Tell user the benefit
+5. Do not ask too much information
+6. Use social proof
+7. Use urgency
+8. Use scarcity
+
+## Course summary
+
+Let's quickly summarize the main content of the course:
+
+- Most of your content will be text, so **beautiful typography** is a key element to a good looking website.
+- **Images** are getting more and more important in webdesign, so choosing great images and putting text on them is an essential part of your work.
+- **Icons** are also a good way of setting a friendly tone for your website, but use them carefully.
+- The adequate use of **whitespace** makes a website look professionally designed, so use it a lot, but in the correct way.
+- Build a layout by defining the **visual hierarchy** of your content. Whitespace is also important for this.
+- Your website should be designed in a way that ensures that both the user and the owner of the website achieve their goals. This is the **user experience**.
+- It is very important that you get inspired by **studying well-designed** websites from other designers.
